@@ -23,7 +23,7 @@ const JobDescription = () => {
         )
       : false;
 
-  const [isApplied, setIsApplied] = useState(isIntiallyApplied);
+  const [isApplied, setIsApplied] = useState(isInitiallyApplied);
 
   const params = useParams();
   const jobId = params.id;
