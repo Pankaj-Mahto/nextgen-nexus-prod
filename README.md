@@ -1,7 +1,6 @@
 
 📝 Job Portal with Resume Builder
 
-![Deploy to Render](https://render.com/images/deploy-to-render-button.svg)
 
 A full-stack **Nextgen-Nexus** application built with the **MERN stack**. Users can search and apply for jobs, create professional resumes using the built-in resume builder, and track their applications.  
 
