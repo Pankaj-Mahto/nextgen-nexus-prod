@@ -120,8 +120,3 @@ This project is licensed under the **MIT License** — see the [LICENSE](LICENSE
 ---
 
 ---
-
-If you want, I can **also add automatic badges (like Build, License, Stars) and a visual “Tech Stack” section with icons** so it looks **super professional on GitHub**.  
-
-Do you want me to do that next?
-```
